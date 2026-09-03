@@ -89,14 +89,9 @@ Designing an experimental setup to investigate solution properties using laser-b
 
 <p>
   <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico%20W-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Pico W">
-  <img src="https://img.shields.io/badge/Experimental%20Physics-Research-informational?style=flat-square" alt="Experimental Physics">
+  <img src="https://img.shields.io/badge/Experimental%20Physics-555555?style=flat-square" alt="Experimental Physics">
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirmahdibita&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmahdibita&layout=compact&hide_border=true" height="170" alt="Top Languages">
-</p>
+<div>
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+</div>
