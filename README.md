@@ -16,15 +16,11 @@
   </a>
 </p>
 
----
-
 ## About Me
 
 I'm a Physics student at Amirkabir University of Technology, interested in applying physics and computational methods to experimental research.
 
 My primary research interest is Experimental Biophysics, with a background in Experimental Condensed Matter Physics and Machine Learning. I'm particularly interested in developing experimental and computational approaches to study biological systems and their physical properties.
-
----
 
 ## Research & Projects
 
@@ -44,16 +40,12 @@ Developing a digital control system for an experimental dip coating device, incl
 
 Designing an experimental setup to investigate solution properties using laser-based optical characterization.
 
----
-
 ## Interests
 
 * 🧬 **Experimental Biophysics**
 * 🔬 **Experimental Condensed Matter Physics**
 * 🤖 **Machine Learning & Deep Learning**
 * ⚛️ **Quantum Computing & Quantum Machine Learning**
-
----
 
 ## Skills
 
@@ -93,5 +85,5 @@ Designing an experimental setup to investigate solution properties using laser-b
 </p>
 
 <div>
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=amirmahdibita&" alt="hejazizo" />
 </div>
