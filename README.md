@@ -1,7 +1,7 @@
 # Amir Mahdi Bita
 
 <p align="center">
-  <strong>Physics Student interested in Machine Learning and Experimental Physics</strong>
+  <strong>Physics Student interested in Experimental Physics and Machine Learning</strong>
 </p>
 
 <p align="center">
@@ -18,7 +18,9 @@
 
 ## About Me
 
-I'm a Physics student at Amirkabir University of Technology, interested in applying physics and computational methods to experimental research.
+## About Me
+
+I'm a Physics student at Amirkabir University of Technology, interested in experimental physics and computational methods.
 
 My primary research interest is Experimental Biophysics, with a background in Experimental Condensed Matter Physics and Machine Learning. I'm particularly interested in developing experimental and computational approaches to study biological systems and their physical properties.
 
@@ -85,5 +87,5 @@ Designing an experimental setup to investigate solution properties using laser-b
 </p>
 
 <div>
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=amirmahdibita&" alt="hejazizo" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=amirmahdibita&" alt="amirmahdibita" />
 </div>
