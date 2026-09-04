@@ -18,8 +18,6 @@
 
 ## About Me
 
-## About Me
-
 I'm a Physics student at Amirkabir University of Technology, interested in experimental physics and computational methods.
 
 My primary research interest is Experimental Biophysics, with a background in Experimental Condensed Matter Physics and Machine Learning. I'm particularly interested in developing experimental and computational approaches to study biological systems and their physical properties.
